@@ -1,4 +1,4 @@
-h2>Overview</h2>
+<h2>Overview</h2>
 <p>FleetMaster is a comprehensive trucking management system designed to optimize and manage trucking operations. The system includes features for managing trucks, drivers, maintenance, schedules, and customers, with integrated views and reports for better decision-making.</p>
 
 <h2>Database Details</h2>
